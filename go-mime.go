@@ -264,7 +264,7 @@ var mimeTypes = map[string]string{
 	"fhc":          "image/x-freehand",
 	"fig":          "application/x-xfig",
 	"fits":         "image/fits",
-	"flac":         "audio/x-flac",
+	"flac":         "audio/flac",
 	"fli":          "video/x-fli",
 	"flo":          "application/vnd.micrografx.flo",
 	"flv":          "video/x-flv",
